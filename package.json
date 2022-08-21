@@ -1,0 +1,24 @@
+{
+  "name": "noderest",
+  "version": "1.0.0",
+  "description": "NodeでRESTAPIとつくってみる",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YutSat21/NodeREST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YutSat21/NodeREST/issues"
+  },
+  "homepage": "https://github.com/YutSat21/NodeREST#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "json-cyclic": "^1.0.2"
+  }
+}
